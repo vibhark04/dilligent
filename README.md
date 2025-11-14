@@ -33,6 +33,3 @@ pip install -r requirements.txt
 - **Build** – modular scripts inside `src/` create data, database, and analytics artifacts.
 - **Verify** – ingestion validates row counts; SQL runner logs execution status; report script summarizes KPIs.
 - **Operate** – logging across scripts and GitHub-ready structure enable quick troubleshooting and deployment.
-
-## GitHub Preparation
-This repo is initialized with `git init` and includes a `.gitignore` covering virtual environments, cache files, the SQLite database, and generated CSVs.
