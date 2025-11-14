@@ -1,0 +1,201 @@
+user_id,first_name,last_name,email,phone,signup_date,loyalty_status,country
+1,Danielle,Johnson,john21@example.net,001-581-896-0013x3890,2024-05-03,silver,Kiribati
+2,Bridget,Pacheco,blakeerik@example.com,942-335-1161x55940,2025-10-30,bronze,Honduras
+3,Christian,Carter,barbara10@example.net,441.731.6475,2024-08-15,bronze,Cote d'Ivoire
+4,Elizabeth,Miles,lynchgeorge@example.net,527.264.8350,2025-07-31,bronze,Germany
+5,Richard,Jones,jason76@example.net,724.523.8849x696,2024-02-29,gold,Malawi
+6,Trevor,Campos,hernandezernest@example.net,(791)366-9784x80184,2024-06-28,silver,Jordan
+7,Eric,Smith,teresa28@example.org,+1-948-293-2528x8095,2024-02-08,gold,Vanuatu
+8,Michael,Galloway,john39@example.org,671-882-2782,2024-04-26,bronze,Vanuatu
+9,Amber,Blair,jenniferross@example.net,+1-557-587-1331x5098,2023-11-19,silver,Barbados
+10,Jean,Brown,whiteheadmichele@example.org,334.373.8299x73763,2025-04-08,bronze,Jersey
+11,Michael,Jenkins,nuneztracey@example.org,4658133387,2024-04-04,bronze,Fiji
+12,Steven,Baxter,ramosmichelle@example.net,908-501-3267,2025-09-15,silver,Iran
+13,Rachel,Martin,gallowayjoseph@example.com,268-272-3430x9805,2025-02-09,bronze,Lesotho
+14,Wesley,Farrell,brianromero@example.org,291-336-1939,2024-10-04,bronze,Palestinian Territory
+15,Brandy,Mills,james53@example.com,(524)675-1079x9118,2024-02-24,silver,Venezuela
+16,Michael,Jones,mikemoore@example.net,001-449-680-8412x411,2024-06-19,silver,Netherlands
+17,Jason,Cooper,william40@example.org,+1-264-300-5242x7868,2024-01-11,bronze,Western Sahara
+18,Nicole,Mckee,davenportbrandi@example.org,(420)545-0533x15869,2025-09-15,silver,Central African Republic
+19,Theresa,Cochran,vjohnson@example.com,(534)221-6073x37543,2025-04-09,gold,Congo
+20,Raymond,Ramirez,rasmussenjoshua@example.net,768.750.1429x40196,2024-10-17,bronze,New Caledonia
+21,Tracey,Wilson,jonathanfletcher@example.org,783.856.1595x14846,2025-05-08,gold,French Polynesia
+22,Angela,Lee,lbyrd@example.net,001-746-980-4436,2024-10-22,silver,Kenya
+23,Emma,Dixon,donnacampbell@example.net,+1-395-913-4332x0037,2024-09-30,bronze,Turks and Caicos Islands
+24,Crystal,Lee,psnyder@example.org,+1-401-963-2870x8317,2025-04-15,bronze,Marshall Islands
+25,Vanessa,Larson,usalazar@example.net,(387)627-7434x87347,2024-05-14,platinum,Faroe Islands
+26,Matthew,Orozco,taylorjesse@example.net,(231)566-5876,2025-08-21,bronze,Italy
+27,Perry,Carrillo,gateskathy@example.com,805.946.6889x3734,2023-12-06,bronze,Iceland
+28,Matthew,Shelton,dramsey@example.org,+1-280-669-9016x272,2024-09-03,bronze,Greece
+29,Jason,Murphy,aramirez@example.com,270-580-5310,2024-04-16,gold,Taiwan
+30,Andrew,Hernandez,thomaswilson@example.org,645.829.9124x190,2024-09-17,silver,Western Sahara
+31,Jennifer,Jones,curtisbarton@example.net,+1-819-905-8651x850,2024-02-03,gold,Jersey
+32,Susan,Reid,bzimmerman@example.org,001-684-998-7769x4531,2024-05-21,gold,Sao Tome and Principe
+33,Steven,Bishop,frogers@example.com,(273)554-5494,2024-01-19,silver,Dominican Republic
+34,Jennifer,Freeman,hannahbrewer@example.com,701.843.6349x578,2025-06-15,platinum,Mexico
+35,Mark,Warner,kristopher31@example.net,651.382.3374,2025-08-21,bronze,Congo
+36,Kenneth,Ward,alexis82@example.com,6089427109,2024-11-19,silver,Kazakhstan
+37,Matthew,Sheppard,shelley71@example.org,(871)590-2294x1318,2025-07-08,gold,Mali
+38,Omar,Kerr,michelle64@example.net,+1-309-413-3412x328,2023-11-16,silver,Ireland
+39,Shannon,Wheeler,antonio44@example.net,413.349.3618x324,2023-12-30,gold,Chad
+40,Laura,Larson,scott74@example.net,(248)387-7190x6594,2024-05-09,silver,Peru
+41,Mary,Johnston,keyemily@example.com,001-802-978-7429,2024-01-23,gold,Latvia
+42,Michael,Cook,hodgemark@example.net,246.980.7154x5168,2024-09-29,bronze,Austria
+43,Jacob,Cox,wgarrett@example.org,548.424.7710,2024-07-12,bronze,Micronesia
+44,Alexander,Russell,victoriadurham@example.com,527-948-4677,2025-01-15,bronze,Cameroon
+45,Patrick,Weeks,michellehill@example.com,784-804-4997x27875,2024-11-01,bronze,Venezuela
+46,Marc,Lopez,ashleyhall@example.com,7573662702,2025-09-23,bronze,Tanzania
+47,Scott,Fox,jsmith@example.com,+1-921-274-5961x5865,2025-03-07,bronze,Bangladesh
+48,Jimmy,Cohen,wendy16@example.org,001-517-824-0050x45562,2025-01-26,bronze,Pitcairn Islands
+49,Laura,Jackson,lynchpatrick@example.net,279.923.7474,2025-10-13,silver,France
+50,Erica,Moore,llandry@example.com,+1-664-674-3671x3695,2023-12-01,bronze,Switzerland
+51,Dominique,Hill,lozanojulie@example.com,001-739-453-3942x10470,2024-01-23,bronze,United States of America
+52,Kenneth,Burgess,jamesbuchanan@example.com,784.324.7451x71236,2025-07-20,bronze,Indonesia
+53,Alexander,Herrera,vrichardson@example.net,596-351-3709x859,2025-03-21,bronze,Swaziland
+54,Steven,Haynes,cwilson@example.org,471-813-8267x5869,2025-04-05,platinum,Bolivia
+55,Martha,Gilbert,antonio53@example.com,935.315.8506x431,2025-04-11,silver,Croatia
+56,Darlene,Harper,williamsmatthew@example.org,001-431-283-9335,2024-06-16,silver,Togo
+57,Tracey,Huerta,lauren10@example.org,4538950240,2024-12-26,bronze,Brazil
+58,Julie,Alvarez,william17@example.net,890.884.7007,2025-04-29,gold,Botswana
+59,Tracy,Browning,lammarc@example.org,624-999-8569,2024-12-10,bronze,Netherlands
+60,Russell,Mcguire,farrelldebra@example.net,001-736-673-6576x6156,2024-08-30,bronze,Zimbabwe
+61,Elijah,Leblanc,davischristopher@example.com,352-880-9885,2024-08-14,platinum,Tunisia
+62,Elizabeth,Christensen,schmittcaroline@example.com,798-332-7315,2025-06-28,silver,Fiji
+63,Audrey,Aguirre,lynchdiane@example.net,302-444-5502x296,2025-06-11,silver,North Macedonia
+64,Teresa,Davis,nicholaschavez@example.org,(645)999-1022x901,2025-04-11,silver,Jamaica
+65,Todd,Ramos,jason81@example.com,(614)597-8403x69003,2025-07-02,gold,Burundi
+66,Kathryn,Roberts,smithjulie@example.org,(268)838-8516,2023-11-28,gold,Kuwait
+67,Samantha,Atkins,tberry@example.net,(841)860-5297x51613,2024-12-24,bronze,Belgium
+68,Randy,Collins,jeffrey21@example.net,+1-418-483-5523x1243,2025-06-26,bronze,Senegal
+69,Diana,Thompson,kmarshall@example.net,299.755.2717x744,2024-12-12,bronze,Barbados
+70,Lance,Hayes,woodjustin@example.net,999-586-7980,2024-07-20,bronze,Netherlands
+71,Thomas,Hernandez,hayeslisa@example.com,001-718-720-3778x892,2025-10-26,bronze,Finland
+72,Paul,Schroeder,mccormickdeborah@example.org,818-464-4925x19254,2025-02-18,platinum,Russian Federation
+73,Sharon,Collins,vschneider@example.org,+1-581-468-5054x23573,2024-03-13,gold,Belarus
+74,Kenneth,French,stanleynancy@example.net,(296)822-2927,2024-08-22,bronze,Philippines
+75,Jennifer,Montes,karen73@example.net,847.835.9774,2024-03-18,silver,Svalbard & Jan Mayen Islands
+76,James,Jacobs,brett75@example.net,481-841-2478,2024-01-24,bronze,Yemen
+77,Renee,Velasquez,sarah60@example.com,653.961.5305x15220,2025-05-07,platinum,Switzerland
+78,Dominic,Thornton,fgilbert@example.org,232-589-8614x341,2024-10-05,silver,Northern Mariana Islands
+79,Laura,Bryant,copelandvincent@example.net,7895324609,2025-01-30,bronze,Israel
+80,Jacob,Barnett,carlos88@example.net,380.767.0654x05153,2024-02-25,bronze,Aruba
+81,Michael,Morgan,mariacohen@example.net,822.917.0430x3054,2024-05-28,silver,Argentina
+82,Karen,Lee,michelle05@example.com,956-767-6527,2025-10-31,bronze,South Georgia and the South Sandwich Islands
+83,April,Owen,mmiller@example.org,+1-845-411-5447,2025-05-02,silver,Kenya
+84,Michael,Williams,christina64@example.net,9162582029,2024-02-20,gold,Bangladesh
+85,Joel,Brewer,patrick90@example.net,(775)857-1928,2024-07-15,bronze,Pakistan
+86,Joshua,Horne,fitzgeraldvictor@example.com,+1-514-347-3947,2024-02-27,bronze,Timor-Leste
+87,Charles,Thompson,zosborn@example.net,451-588-4422x58313,2025-07-19,platinum,Lithuania
+88,Anthony,Spencer,tanner82@example.net,314-467-8669,2024-07-17,silver,Norway
+89,Charles,Owens,david89@example.org,001-626-380-1824x22535,2024-05-26,bronze,Congo
+90,Cynthia,Pierce,colleenmendez@example.org,629.592.2995x90010,2025-07-01,bronze,Montserrat
+91,Robert,Fowler,ismall@example.com,+1-947-536-4710x2767,2024-08-04,bronze,New Caledonia
+92,Douglas,Hensley,jessica56@example.org,001-258-681-5371x47321,2024-09-07,silver,Tonga
+93,Christina,Wright,lisapeck@example.net,532-578-7747x01687,2025-02-09,gold,Guinea
+94,Brandon,Campbell,amitchell@example.org,(624)356-5060x98358,2024-09-09,silver,Madagascar
+95,Shannon,Pierce,andersoncolin@example.com,985-923-9868x00025,2024-03-08,bronze,New Caledonia
+96,Patricia,Taylor,francisco94@example.net,688-287-9470x55169,2025-02-19,bronze,Lebanon
+97,Joseph,Rios,jennifersilva@example.org,896.523.0913x07562,2024-09-27,platinum,Macao
+98,Kimberly,Knapp,thorntonapril@example.net,578-565-2785x85497,2024-06-17,silver,Moldova
+99,Kenneth,David,kellie37@example.com,258.644.1986x6524,2025-05-21,platinum,Belgium
+100,Michael,Ramos,julie33@example.net,584-221-9933x083,2024-01-30,gold,Isle of Man
+101,Mark,Kennedy,adampierce@example.org,(877)434-5401x93802,2025-11-08,bronze,Uruguay
+102,Benjamin,Huff,vlopez@example.com,9044991547,2025-09-05,gold,Madagascar
+103,Taylor,Lee,riverajessica@example.net,720-354-9329x668,2024-09-20,silver,Paraguay
+104,Cody,Holden,pmorris@example.org,563-274-5499x045,2025-04-15,silver,British Indian Ocean Territory (Chagos Archipelago)
+105,Steven,Moore,hannah45@example.net,932.572.7956,2025-06-27,bronze,Egypt
+106,Erin,Larson,foxallison@example.com,491-408-8398,2024-07-25,silver,Timor-Leste
+107,Abigail,Wilson,jenniferburns@example.net,207.828.6790x874,2024-05-29,bronze,Svalbard & Jan Mayen Islands
+108,Aaron,Robinson,williamsmelvin@example.org,+1-801-770-4622,2025-10-06,silver,Hong Kong
+109,Shane,Stark,rbennett@example.net,+1-525-212-8682,2025-06-23,silver,Angola
+110,Tiffany,Ford,opatel@example.org,352.343.1069x033,2025-02-17,platinum,Antigua and Barbuda
+111,Sean,Powers,sanchezbradley@example.com,783.702.8439,2024-05-16,gold,Gabon
+112,Nancy,Odom,roberthill@example.net,001-726-887-0568,2024-09-26,bronze,Canada
+113,Kevin,White,oallen@example.com,001-627-508-6688x263,2024-07-27,silver,Oman
+114,Christian,Cole,christopher30@example.com,(299)501-3983x7354,2025-11-10,bronze,Comoros
+115,Suzanne,Wilson,srocha@example.net,001-636-738-5467x854,2024-12-16,platinum,Turkmenistan
+116,Tyler,Garcia,ugill@example.org,(856)609-3204x899,2024-03-11,gold,Congo
+117,Mark,James,victorpena@example.net,247-377-2522x87280,2025-08-10,bronze,Paraguay
+118,Brandon,Smith,meganhall@example.net,(903)987-5099,2023-11-26,silver,Albania
+119,Amanda,Jenkins,morenojoshua@example.com,5866211823,2025-08-08,silver,Guinea
+120,Joseph,Sanders,susan79@example.org,001-234-410-1666x870,2024-01-17,bronze,Luxembourg
+121,Megan,Newman,ariel18@example.org,239.474.0148,2025-11-04,gold,Thailand
+122,Leonard,Ali,karenmarquez@example.com,842-493-9685,2025-07-19,silver,Portugal
+123,Jennifer,Mason,brian63@example.org,899-496-5047x73586,2025-04-24,gold,Myanmar
+124,Donna,Miller,lauren11@example.com,(662)965-5110,2024-08-19,silver,Senegal
+125,Joseph,Anderson,ryanhawkins@example.net,(810)315-8199x56046,2025-05-30,bronze,United Arab Emirates
+126,Anita,Haney,ashleyjackson@example.com,(824)644-7212,2024-10-06,bronze,French Southern Territories
+127,Todd,Jones,sheryl79@example.net,871.724.0659,2024-10-20,bronze,Grenada
+128,Ryan,Colon,kevinmorrison@example.net,575.726.5479,2024-09-01,platinum,Fiji
+129,Lisa,Long,frederickjames@example.net,(980)473-7416,2025-03-19,gold,Gabon
+130,John,Hopkins,emccormick@example.com,+1-379-368-8680x589,2025-07-03,gold,Egypt
+131,Diane,Kelly,hartdeanna@example.net,(556)910-1438x8899,2024-08-30,bronze,India
+132,Steven,Frazier,michaeljohnson@example.org,961-312-5457x3875,2024-10-19,bronze,Saint Helena
+133,Heather,Flores,bradley10@example.com,+1-812-438-2825x8673,2024-04-06,gold,Northern Mariana Islands
+134,Diane,Foster,shannonjordan@example.org,001-933-341-9182x553,2024-06-04,platinum,Paraguay
+135,Michelle,Rose,candice96@example.net,355-479-2499,2024-07-14,bronze,British Indian Ocean Territory (Chagos Archipelago)
+136,John,Wilson,heather86@example.com,+1-629-466-2782x827,2024-04-07,silver,Germany
+137,Megan,Harvey,stephanie72@example.org,(588)676-7677x2190,2023-12-09,bronze,Falkland Islands (Malvinas)
+138,Jeffrey,Roberts,xcunningham@example.com,+1-281-991-4858,2025-01-11,gold,Cuba
+139,Veronica,Garcia,kennethkidd@example.com,451-571-3395x962,2025-08-06,gold,Costa Rica
+140,Linda,Hudson,candice25@example.net,449-748-1260x4223,2025-08-18,bronze,Egypt
+141,Kathleen,Lowe,othomas@example.com,+1-266-371-1684x5775,2025-06-03,silver,Kuwait
+142,Cynthia,Terry,flynnraymond@example.com,974.754.5892,2025-10-08,silver,Pitcairn Islands
+143,Kathryn,Williams,ksmith@example.com,706.432.4241x541,2023-12-24,bronze,Indonesia
+144,Connie,Barber,rubendavis@example.org,2372129387,2025-05-07,gold,Guam
+145,Lisa,Mcneil,ebenson@example.org,861.411.5542,2025-03-26,silver,Philippines
+146,Douglas,Moreno,bishopfrank@example.com,001-732-869-7311x2196,2024-07-15,bronze,Somalia
+147,Donald,Hill,wrightcarolyn@example.net,+1-540-943-8983x640,2024-09-08,silver,Bouvet Island (Bouvetoya)
+148,John,Little,ricetiffany@example.com,626-596-5827x10910,2023-12-14,gold,Uzbekistan
+149,Bruce,Mccormick,courtney86@example.com,001-561-488-9241x418,2025-01-03,bronze,Greece
+150,Peter,Walters,collinssamuel@example.org,6314617990,2024-02-14,bronze,American Samoa
+151,Jean,Miles,tylerreed@example.net,001-642-352-4105x6481,2024-12-03,platinum,Korea
+152,William,Brown,michaelscott@example.org,001-913-780-0030,2024-09-06,silver,Uruguay
+153,Edward,Velazquez,tranrobin@example.net,+1-263-453-6541x9518,2024-05-05,silver,Spain
+154,Zachary,Williams,djones@example.com,001-945-718-7053x49493,2025-02-15,silver,Lithuania
+155,Whitney,Parsons,edwardrandolph@example.org,585.505.0641,2024-10-05,bronze,Liechtenstein
+156,Susan,Kaufman,jenniferdavis@example.org,865.471.9182x61990,2024-05-15,bronze,French Guiana
+157,Jose,Edwards,vhaynes@example.com,774-831-3291x21277,2024-02-15,bronze,Mauritania
+158,Michael,Townsend,qparker@example.org,524-790-3521,2024-09-16,silver,Malaysia
+159,Brandon,Evans,anthonysullivan@example.com,+1-283-517-1210,2024-02-23,bronze,Congo
+160,Madison,Watson,aguilarjonathan@example.org,9132721510,2024-03-23,bronze,Uzbekistan
+161,Audrey,Underwood,ycrawford@example.net,(625)932-4472x09993,2024-09-29,bronze,Turkmenistan
+162,Andrea,Brown,patrick63@example.net,638.406.5787x59856,2023-12-04,silver,Ghana
+163,Carla,Johnson,brian78@example.com,001-493-421-3348x03965,2024-05-15,bronze,Nauru
+164,Louis,Rojas,robin05@example.net,001-229-337-8427,2023-12-27,platinum,Djibouti
+165,Carolyn,Smith,nsmith@example.org,(352)750-0292,2024-01-09,gold,Holy See (Vatican City State)
+166,Janet,Bates,rogersmarcus@example.org,001-667-452-8953x9264,2024-03-31,bronze,Saint Lucia
+167,Aaron,Miles,xrosales@example.net,4297593917,2025-06-14,bronze,Belarus
+168,John,Haas,daisymccarty@example.net,+1-957-804-3315x41006,2024-03-22,silver,Turks and Caicos Islands
+169,Robert,Macias,amy17@example.net,+1-432-871-0405x4115,2024-03-17,bronze,Saint Martin
+170,Charles,Mcmahon,morgantricia@example.com,001-806-629-6201x533,2025-04-10,bronze,Finland
+171,Kenneth,Davis,farmstrong@example.org,3502614973,2024-04-22,platinum,Chile
+172,Danielle,Rowland,tanthony@example.com,674.918.6256x5270,2024-11-09,silver,Estonia
+173,Jeremy,Adams,hernandezheather@example.org,858-969-3806,2025-01-31,silver,Turkmenistan
+174,Joe,Evans,torr@example.org,898.399.2172x23320,2025-04-27,gold,Jordan
+175,James,Carson,maryscott@example.net,916-286-8548,2025-07-16,gold,Reunion
+176,Cindy,Mills,jrodriguez@example.org,001-799-811-9148,2024-06-06,bronze,Hungary
+177,Diana,Armstrong,rjohnson@example.com,(999)660-6530,2025-10-10,bronze,Holy See (Vatican City State)
+178,Andrew,Roth,larry71@example.org,(947)554-6913,2025-10-23,silver,Swaziland
+179,Richard,Washington,lori82@example.org,986-228-9023x3030,2025-10-27,silver,Guyana
+180,Janet,Hill,owagner@example.org,+1-603-357-9727x98552,2024-06-22,silver,Antarctica (the territory South of 60 deg S)
+181,Paul,Martin,mercedesholland@example.net,246.580.0722,2024-05-28,gold,New Caledonia
+182,Linda,Torres,rodney65@example.com,637-648-9691x085,2025-04-28,silver,Botswana
+183,Timothy,Rogers,danielle44@example.net,001-943-628-3096x520,2024-06-02,platinum,United States of America
+184,Robert,Price,aguilarwanda@example.org,638-475-8428x24172,2025-04-24,bronze,United Arab Emirates
+185,Matthew,Davis,jeffrey46@example.com,(949)547-1709x991,2024-12-06,silver,British Indian Ocean Territory (Chagos Archipelago)
+186,Mikayla,James,robert22@example.org,969-672-5217x52500,2024-04-24,bronze,Senegal
+187,Kim,Johnston,tracygallagher@example.org,(296)566-6760,2025-06-03,gold,Holy See (Vatican City State)
+188,Stephanie,Mcclain,andrewsmith@example.net,635.442.1689,2024-01-03,bronze,Swaziland
+189,Brandon,Fry,mluna@example.net,262-457-5326x03323,2024-02-17,bronze,Haiti
+190,Jennifer,Conner,qmcdowell@example.net,+1-609-901-0016x761,2025-05-12,silver,Cape Verde
+191,Jamie,Jennings,turnerdorothy@example.net,549.592.6189x14117,2025-07-10,silver,Estonia
+192,Marie,Dudley,jade42@example.org,+1-373-975-3001,2024-03-08,bronze,Zambia
+193,Christopher,Hunt,conwaydawn@example.com,247-201-2045x5611,2025-09-05,bronze,Burundi
+194,Elizabeth,Jackson,patricia94@example.net,855-921-6674,2025-07-27,platinum,Italy
+195,Deborah,Robles,andersonjessica@example.org,769-279-7296,2025-09-13,silver,Poland
+196,Nichole,Acosta,timothyfreeman@example.com,301.845.0899x358,2025-04-10,gold,Saint Lucia
+197,John,Reed,jhernandez@example.net,7025877217,2024-07-28,silver,Fiji
+198,Brent,Walker,ppowell@example.org,879.871.7751x701,2023-12-11,bronze,Moldova
+199,Andrea,Petersen,pamela83@example.net,+1-375-350-3758x99757,2025-06-25,platinum,Palestinian Territory
+200,Jeffrey,Peterson,amy51@example.org,(372)861-4933,2024-04-29,gold,Kuwait
